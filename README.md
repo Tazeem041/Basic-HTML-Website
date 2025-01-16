@@ -1,5 +1,5 @@
 # Project Link
- https://basic-html-website-theta.vercel.app/
+ https://roadmap.sh/projects/basic-html-website
 
 # React + TypeScript + Vite
 
